@@ -17,7 +17,7 @@
 
 I am an independent security researcher now. I also am a member of [Terminal OS Architecture & Security Team (TOAST) ](https://toast-research.github.io/). Previously, I was a research assistant at Zhejiang University, advised by [Prof. Wenbo Shen](https://wenboshen.org/). Prior to this, I was a visiting scholar at the University of Colorado Boulder, advised by [Prof. Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/). I also worked closely with [Prof. Mingxue Zhang](https://zhangmx1997.github.io/) at Zhejiang University. I obtained my bachelor’s degree from Jiangxi Normal University at 2022.  
 
-My research focuses on system/architecture security - Understand it -> Hack it😄. 
+My research focuses on system/software security - Understand it -> Hack it😄. 
 
 ```bio-remove
 Below we use a simple mechanism to mitigate email address reaping.
