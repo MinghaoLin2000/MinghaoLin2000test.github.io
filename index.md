@@ -17,7 +17,10 @@
 
 I am an independent security researcher now. I also am a member of [Terminal OS Architecture & Security Team (TOAST) ](https://toast-research.github.io/). Previously, I was a research assistant at Zhejiang University, advised by [Prof. Wenbo Shen](https://wenboshen.org/). Prior to this, I was a visiting scholar at the University of Colorado Boulder, advised by [Prof. Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/). I also worked closely with [Prof. Mingxue Zhang](https://zhangmx1997.github.io/) at Zhejiang University. I obtained my bachelor’s degree from Jiangxi Normal University at 2022.  
 
-My research focuses on system/software security - Understand it -> Hack it😄. 
+My research focuses on system/software security. 
+
+
+Understand it -> Hack it😄
 
 ```bio-remove
 Below we use a simple mechanism to mitigate email address reaping.
@@ -111,7 +114,8 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 
 ```
 ## Talks
-- Unveiling macOS GPU Attack Surfaces: From N-Day Exploits to Novel Fuzzing Techniques | 07/04/ 2025 JD.com (京东) online 
+- **Unveiling macOS GPU Attack Surfaces: From N-Day Exploits to Novel Fuzzing Techniques** | 07/04/ 2025 JD.com (京东) online  
+
 ## Bugs
 ### Well-known Operate Systems (macOS/iOS/Windows/Android)
 - CVE-2025-43195, CVE-2025-43187, CVE-2025-30448, [Analytics Bug](https://support.apple.com/en-us/122373), CVE-2025-24170, CVE-2025-31182, CVE-2025-24249, CVE-2025-24205, CVE-2025-24207, CVE-2025-24248, CVE-2025-24127, CVE-2024-20116, CVE-2024-49107, CVE-2024-40788, CVE-2024-27826, [Multiple Apple Neural Engine Compiler Errors](https://support.apple.com/en-us/121238), CVE-2024-43533, CVE-2024-20136, CVE-2024-20116, CVE-2024-20107, CVE-2024-20097, CVE-2024-20096, CVE-2024-20095, CVE-2024-20093, CVE-2024-20092, CVE-2024-20091, CVE-2024-20090, CVE-2024-20088, CVE-2024-20083, CVE-2024-20013, CVE-2023-32876, CVE-2023-32875, CVE-2023-32873, CVE-2023-32872, CVE-2023-32821, CVE-2023-32819, CVE-2023-32818, CVE-2023-20833, CVE-2023-20823, CVE-2023-20780
