@@ -17,7 +17,7 @@
 
 I am an independent security researcher now. I also am a member of [Terminal OS Architecture & Security Team (TOAST) ](https://toast-research.github.io/). Previously, I was a research assistant at Zhejiang University, advised by [Prof. Wenbo Shen](https://wenboshen.org/). Prior to this, I was a visiting scholar at the University of Colorado Boulder, advised by [Prof. Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/). I also worked closely with [Prof. Mingxue Zhang](https://zhangmx1997.github.io/) at Zhejiang University. I obtained my bachelor’s degree from Jiangxi Normal University at 2022.  
 
-My current research focuses on system/software security. I am interested in the security of AI system/software (GPU stack, Mlsys, etc) and apply AI techniques in security scenario (LLM for sec). I also like exploring new things like web3.
+My current research focuses on system/software security. I am interested in the security of AI infrastructure and apply AI techniques in security scenario (LLM for sec). I also like exploring new things like web3.
 
 I still love hacking. I have founded many bugs and received 60 CVEs from many famous vendors (Apple, Microsoft, Amazon, etc). My personal thought: Understand target-> Hack it😄
 
