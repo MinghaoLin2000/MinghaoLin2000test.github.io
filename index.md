@@ -17,10 +17,7 @@
 
 I am an independent security researcher now. I also am a member of [Terminal OS Architecture & Security Team (TOAST) ](https://toast-research.github.io/). Previously, I was a research assistant at Zhejiang University, advised by [Prof. Wenbo Shen](https://wenboshen.org/). Prior to this, I was a visiting scholar at the University of Colorado Boulder, advised by [Prof. Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/). I also worked closely with [Prof. Mingxue Zhang](https://zhangmx1997.github.io/) at Zhejiang University. I obtained my bachelor’s degree from Jiangxi Normal University at 2022.  
 
-Back in college, I was a devoted CTF enthusiast. I founded our university’s first CTF club [JXNUSEC](https://www.jxnusec.cn/) and was the primary solver for reverse-engineering challenges. I loved picking apart closed-source binaries in a debugger and figuring out how they worked. For a while I was fascinated by mobile-game cracking and even entered Tencent’s Game Security Competition 2022, where I solved every problem in both the [preliminary](https://bbs.kanxue.com/thread-272518.htm) and [final](https://bbs.kanxue.com/thread-272519.htm) rounds. Those contests also honed my self-learning skills—especially my “Google-fu.” After graduating, I entered CTF events far less frequently, and my technical focus gradually shifted toward vulnerability finding and exploit development :). 
-
 My current research focuses on system/software security. I am interested in the security of AI system/software (GPU stack, Mlsys, etc) and apply AI techniques in security scenario (LLM for sec). I also like exploring new things like web3.
-
 
 I still love hacking. I have founded many bugs and received 60 CVEs from many famous vendors (Apple, Microsoft, Amazon, etc). My personal thought: Understand target-> Hack it😄
 
@@ -43,7 +40,8 @@ eml.removeAttribute('class');
 [bio]-->
 
 ## Experiences
-2024.06 - Now     Independent researcher    
+2025.09 - NOW USC CS PhD
+2024.06 - 2025.09 Independent Security Researcher    
 2023.09 - 2024.06 Research Assistant, Zhejiang University, advised by Prof. Wenbo Shen   
 2023.01 - 2023.08 Visiting Scholar, The University of Colorado Boulder, advised by Prof. Yueqi Chen  
 2022.01 - 2023.01 Senior Security Engineer, Embedded and Mobile Security Group, NIO Inc, Full time.   
